@@ -2,7 +2,7 @@
 
 # Securonis Linux - DNSCrypt Manager
 
-set -e  # Exit on error
+set -e  
 
 # ASCII Art Function
 ascii_art() {
